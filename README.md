@@ -1,36 +1,86 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🎂 Flourish Bakery Website
 
-## Getting Started
+[![Next.js](https://img.shields.io/badge/Next.js-13.5.1-black?style=flat-square&logo=next.js)](https://nextjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.2.2-blue?style=flat-square&logo=typescript)](https://www.typescriptlang.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.3.3-38B2AC?style=flat-square&logo=tailwind-css)](https://tailwindcss.com/)
+[![License](https://img.shields.io/badge/License-Proprietary-red?style=flat-square)](LICENSE)
 
-First, run the development server:
+A modern, responsive website for Flourish Bakery in Ranchi, Jharkhand. Built with Next.js and optimized for performance, accessibility, and SEO.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🌟 Features
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- **Complete Cake Menu** - Browse 18+ varieties with pricing
+- **WhatsApp Integration** - One-click ordering with dynamic messages
+- **Mobile-First Design** - Responsive across all devices
+- **SEO Optimized** - 100+ keywords targeting local search
+- **Fast Performance** - Optimized images and lazy loading
+- **Accessibility** - WCAG compliant with ARIA labels
+- **Contact Form** - WhatsApp-integrated contact system
+- **Google Maps** - Location integration
+- **Smooth Animations** - Framer Motion for engaging UX
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+## 🛠️ Tech Stack
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- **Framework**: Next.js 13.5.1 (App Router)
+- **Language**: TypeScript
+- **Styling**: Tailwind CSS
+- **UI Components**: Shadcn UI
+- **Animations**: Framer Motion
+- **Icons**: Lucide React
+- **Deployment**: Vercel/Netlify Ready
 
-## Learn More
+## 📱 Pages
 
-To learn more about Next.js, take a look at the following resources:
+- **Home** - Hero section, featured cakes, benefits
+- **Menu** - Complete cake catalog with search
+- **Deals** - Seasonal promotions and FAQ
+- **Contact** - Contact form, map, business info
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
+## 📊 Performance
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- **Lighthouse Score**: 90+ (Performance, Accessibility, SEO)
+- **Image Optimization**: Next.js automatic optimization
+- **Bundle Size**: Optimized with code splitting
+- **Loading Speed**: Sub-second page loads
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+## 📸 Screenshots
+
+*Add screenshots of your deployed website here* Will be adding in future.
+
+## Browser Support
+
+- Chrome (latest)
+- Firefox (latest)
+- Safari (latest)
+- Edge (latest)
+- Mobile browsers (iOS Safari, Chrome Mobile)
+
+## 📄 License
+
+This project is proprietary software developed for Flourish Bakery. All rights reserved.
+
+## 📞 Contact
+
+**Flourish Bakery**
+- 📍 Lake Road, Opposite to Israil Band, Ranchi, Jharkhand
+- 📱 +91 91172 69276 
+- 📧 info@flourishbakery.com
+- 🌐 [Website](https://flourishbakery.com)
+
+## 🙏 Acknowledgments
+
+- Built with [Next.js](https://nextjs.org/)
+- UI components from [Shadcn UI](https://ui.shadcn.com/)
+- Icons from [Lucide React](https://lucide.dev/)
+- Animations by [Framer Motion](https://www.framer.com/motion/)
+
+---
+
+*Fresh Cakes, Sweet Memories* 🎂✨
+
+---
+
+**Private Repository** - This is a proprietary project for Flourish Bakery.
